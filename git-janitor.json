@@ -1,21 +1,21 @@
 {
-    "version": "0.2.3-beta.1",
+    "version": "0.3.0-beta.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vhjan/git-janitor/releases/download/v0.2.3-beta.1/git-janitor_Windows_x86_64.zip",
+            "url": "https://github.com/vhjan/git-janitor/releases/download/v0.3.0-beta.1/git-janitor_Windows_x86_64.zip",
             "bin": [
                 "git-janitor.exe",
                 "gj.exe"
             ],
-            "hash": "e791926eafbae0632bfd7808b395ee635ac9c022f663084a30e7011aca1b6aed"
+            "hash": "3586a6e9e450d3ef1d9854ca1c65c72ccde9508fd2075013c3afc10e6ed58d77"
         },
         "arm64": {
-            "url": "https://github.com/vhjan/git-janitor/releases/download/v0.2.3-beta.1/git-janitor_Windows_arm64.zip",
+            "url": "https://github.com/vhjan/git-janitor/releases/download/v0.3.0-beta.1/git-janitor_Windows_arm64.zip",
             "bin": [
                 "git-janitor.exe",
                 "gj.exe"
             ],
-            "hash": "c94259796a54f0612dc7d4fac05d84e85f0257784f2ded78e205b84227c4c48f"
+            "hash": "0b4b404ecdf4e32460129d9613e3a2265e933abd9af0bd7227a3b997cda23f99"
         }
     },
     "homepage": "https://github.com/vhjan/git-janitor",
